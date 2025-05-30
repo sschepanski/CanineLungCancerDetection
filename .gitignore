@@ -87,7 +87,7 @@ dmypy.json
 .vscode
 .DS_Store
 .ipynb_checkpoints
-data/
+Archived/
 scr/Data Preprocessing.ipynb
 scr/Data Preprocessing NEU.ipynb
 scr/archived
