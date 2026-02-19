@@ -45,7 +45,7 @@ The goal of this project is to comprehensively analyze the detection accuracy of
 
 ## Acknowledgements
 
-This research is based on data provided by Dogscan GmbH, who documented canine scent detection for lung cancer screening.
+This research is based on data provided by Dogscan GmbH, who documented canine scent detection for lung cancer screening. The preprint has been published here [Grah, C., Oei, S. L., Ngandeu Schepanski, S., Wuestefeld, H. F., Blazejczyk, K., Kalinka-Grafe, J., & Seifert, G. (2026). Feasibility Study on Training Dogs to Detect Lung Cancer: Findings of a Retrospective Evaluation. medRxiv, 2026-02.](https://doi.org/10.64898/2026.02.04.26345351)
 
 ## Getting Started
 
